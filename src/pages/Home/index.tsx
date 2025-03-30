@@ -85,7 +85,7 @@ function HomePage() {
             Join our crowdfunding platform to support promising startups and be part of their success story.
           </p>
           <a 
-            href="https://example.com/crowdfunding" 
+            href="https://uday-cr.vercel.app/" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="inline-block glass px-8 py-4 rounded-full text-blue-400 hover:text-blue-300 transition-colors text-lg font-semibold animate-float"
